@@ -130,3 +130,6 @@ dmypy.json
 
 # JetBrains Rider IDE
 .idea
+
+# VS Code
+.vscode
