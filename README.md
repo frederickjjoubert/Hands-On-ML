@@ -6,7 +6,7 @@ By Aurélien Géron
 
 ---
 
-The following repo holds my code, exercises, jupyter notebooks, notes and exercises for the Hands-On ML book.
+The following repo holds my code, exercises, jupyter notebooks, and notes for the Hands-On ML book.
 
 ---
 
