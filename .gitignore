@@ -133,3 +133,10 @@ dmypy.json
 
 # VS Code
 .vscode
+
+# Ignore all folders named "datasets"
+**/datasets/
+
+
+# Ignore all folders named "models"
+**/models/
